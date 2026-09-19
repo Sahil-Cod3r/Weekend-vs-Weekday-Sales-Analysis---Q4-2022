@@ -25,9 +25,7 @@ Is_Q4_2022 = CASE WHEN YEAR(order_date) = 2022 AND MONTH(order_date) IN (10,11,1
 - **Filter applied:** `Is_Q4_2022 = Yes` (Oct, Nov, Dec 2022 only)
 
 ## 📷 Screenshot
-![Weekend vs Weekday Sales Analysis - Q4 2022](<<img width="2500" height="1876" alt="Weekend_vs_Weekday_Sales_Analysis_-_Q4_2022-1" src="https://github.com/user-attachments/assets/5423505a-8d3a-4c76-8416-1aba01ddaead" />
- />
-)
+Weekend vs Weekday Sales Analysis - Q4 2022(img width="2500" height="1876" alt="Weekend_vs_Weekday_Sales_Analysis_-_Q4_2022-1" src="https://github.com/user-attachments/assets/5423505a-8d3a-4c76-8416-1aba01ddaead")
 
 ## 🔍 Key Insight
 
